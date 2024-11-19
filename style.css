@@ -185,11 +185,12 @@ a {
 }
 
 .painel h3 {
+    margin-top: 10px;
     font-size: 24px;
     font-weight: 600;
 }
 
-.painel h3 {
+.painel p {
     font-size: 16px;
     padding: 10px 0;
 }
